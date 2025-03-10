@@ -2,4 +2,4 @@
 
 
 
-![Features](All-in-one.png)
+![Features] <img src="All-in-one.png">
