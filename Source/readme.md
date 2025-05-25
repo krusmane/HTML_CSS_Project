@@ -2,4 +2,4 @@
 
 ## heading 2
 
-[Download](Source/Profile Pic.png)
+<a href="Source/Profile Pic.png"></a>
